@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.rebirth.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: rebirth_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: me.rebirthclient.asm.MixinLoader
+

@@ -1,0 +1,21 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "ShaderChams",
+  "Shader Mode": "Aqua",
+  "Animation": true,
+  "Animation Speed": 1,
+  "Glow Radius": 3.3,
+  "Glow Divider": 158.6,
+  "Glow MaxSample": 10.0,
+  "Player": false,
+  "Crystal": false,
+  "Exp": false,
+  "DroppedItem": false,
+  "ItemShaderChams": true,
+  "FOVOnly": false,
+  "Color": -8553003,
+  "RainbowColor": false,
+  "Range": 50
+}

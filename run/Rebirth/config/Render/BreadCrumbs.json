@@ -1,0 +1,16 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "BreadCrumbs",
+  "Width": 0.8,
+  "Delay": 1000,
+  "Exp": true,
+  "Arrows": true,
+  "Self": true,
+  "Color": -8553003,
+  "RainbowColor": false,
+  "SecondColor": -4226817,
+  "shouldSecondColor": false,
+  "RainbowSecondColor": false
+}

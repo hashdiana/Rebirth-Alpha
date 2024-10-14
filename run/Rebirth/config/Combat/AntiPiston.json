@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AntiPiston",
+  "Rotate": true,
+  "Packet": true,
+  "MaxSelfSpeed": 6.0,
+  "Helper": true,
+  "Trap": true,
+  "OnlyBurrow": true,
+  "WhenDouble": true
+}

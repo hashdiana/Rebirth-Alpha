@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "RotateBypass",
+  "RotateTime": 300,
+  "OnlyFreecam": false,
+  "Packet": false
+}

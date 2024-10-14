@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "FastPlace",
+  "OnlyEnderChest": true,
+  "OnlyEXP": true,
+  "Delay": 20
+}

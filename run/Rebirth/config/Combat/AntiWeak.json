@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AntiWeak",
+  "Delay": 100,
+  "SwapMode": "Bypass",
+  "OnlyCrystal": true
+}

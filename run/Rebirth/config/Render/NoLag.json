@@ -1,0 +1,16 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "NoLag",
+  "AntiSpam": true,
+  "AntiPopLag": true,
+  "WitherSkulls": false,
+  "PrimedTNT": false,
+  "ScoreBoards": true,
+  "GlowingEntities": true,
+  "Parrots": true,
+  "AntiSound": true,
+  "Armor": true,
+  "Crystals": true
+}

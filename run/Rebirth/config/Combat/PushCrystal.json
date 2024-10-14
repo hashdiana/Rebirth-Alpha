@@ -1,0 +1,20 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "PushCrystal",
+  "AutoDisable": false,
+  "NoEating": true,
+  "EatingBreak": false,
+  "PlaceRange": 5.0,
+  "Range": 4.0,
+  "PowerPacket": true,
+  "PistonPacket": false,
+  "Fire": true,
+  "Switch": false,
+  "SelfGround": true,
+  "MovingPause": true,
+  "PlaceDelay": 100,
+  "PosUpdateDelay": 500,
+  "Debug": false
+}

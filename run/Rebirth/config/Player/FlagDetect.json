@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "FlagDetect",
+  "ChatNotify": true,
+  "Chams": true,
+  "FadeTime": 15,
+  "Color": 1690173440,
+  "RainbowColor": false,
+  "LineColor": 2030043135,
+  "shouldLineColor": false,
+  "RainbowLineColor": false
+}

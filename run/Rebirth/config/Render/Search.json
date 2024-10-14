@@ -1,0 +1,19 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Search",
+  "Range": 50.0,
+  "Portal": true,
+  "Chest": true,
+  "Dispenser": false,
+  "Shulker": true,
+  "Ender Chest": false,
+  "Hopper": false,
+  "Minecart": false,
+  "Item Frame": false,
+  "Box": false,
+  "BoxAlpha": 125,
+  "Outline": true,
+  "LineWidth": 1.0
+}

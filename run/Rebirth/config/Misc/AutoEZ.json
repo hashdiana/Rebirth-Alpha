@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AutoEZ",
+  "String": "EZ",
+  "PopCounter": true,
+  "WhenFriend": false,
+  "WhenSelf": false,
+  "SelfString": "potato_server_nice_lag"
+}

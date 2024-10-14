@@ -1,0 +1,23 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "OldSpeed",
+  "Jump": false,
+  "InWater": false,
+  "StrafeSpeed": 278.5,
+  "Explosions": true,
+  "Velocity": true,
+  "H-Factor": 1.0,
+  "V-Factor": 1.0,
+  "CoolDown": 400,
+  "PauseTime": 400,
+  "Directional": false,
+  "Cap": 10.0,
+  "ScaleCap": false,
+  "Slowness": true,
+  "Modify": false,
+  "XZ-Factor": 1.0,
+  "Y-Factor": 1.0,
+  "Debug": false
+}

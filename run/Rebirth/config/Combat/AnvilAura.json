@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AnvilAura",
+  "TargetRange": 5.0,
+  "PlaceRange": 5.0,
+  "Rotate": true,
+  "Packet": true,
+  "Delay": 50,
+  "MultiPlace": 1,
+  "MaxTargetSpeed": 10.0
+}

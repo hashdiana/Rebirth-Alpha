@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AntiBurrow",
+  "Block": "RedStone",
+  "Rotate": true,
+  "Packet": true,
+  "Delay": 50,
+  "MultiPlace": 1,
+  "SelfGround": true,
+  "Range": 5.0
+}

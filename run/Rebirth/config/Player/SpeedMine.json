@@ -1,0 +1,8 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "SpeedMine",
+  "StartDamage": 0.1,
+  "EndDamage": 0.9
+}

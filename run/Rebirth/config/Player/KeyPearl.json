@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "KeyPearl",
+  "Mode": "Middle",
+  "NoPlayerTrace": true,
+  "Inventory": true,
+  "Sync": true,
+  "TestSync": true
+}

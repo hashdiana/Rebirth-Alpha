@@ -1,0 +1,16 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Models",
+  "Mode": "AmongUs",
+  "OnlySelf": false,
+  "Friends": false,
+  "friendHighLight": false,
+  "eyeColor": -1,
+  "RainboweyeColor": false,
+  "bodyColor": -65536,
+  "RainbowbodyColor": false,
+  "legsColor": -65536,
+  "RainbowlegsColor": false
+}

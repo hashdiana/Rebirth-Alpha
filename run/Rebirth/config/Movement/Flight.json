@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Flight",
+  "Speed": 1.0,
+  "VerticalSpeed": 1.0,
+  "Glide": true
+}

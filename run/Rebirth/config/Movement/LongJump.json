@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "LongJump",
+  "Boost": 4.5,
+  "AntiKick": true,
+  "AutoDisable": true
+}

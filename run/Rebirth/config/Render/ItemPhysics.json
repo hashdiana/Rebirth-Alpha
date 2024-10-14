@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "ItemPhysics",
+  "Scale": 0.5,
+  "RotateSpeed": 0.5,
+  "ShulkerBoxScale": 0.5
+}

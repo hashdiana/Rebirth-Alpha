@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Step",
+  "Height": 2.5,
+  "Mode": "Vanilla",
+  "PauseBurrow": true,
+  "PauseSneak": true,
+  "PauseWeb": true,
+  "OnlyMoving": true
+}

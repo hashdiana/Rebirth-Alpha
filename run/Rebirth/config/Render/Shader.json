@@ -1,0 +1,20 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Shader",
+  "Players": false,
+  "Crystals": false,
+  "Exp": false,
+  "Items": false,
+  "Self": true,
+  "Color": -8553003,
+  "RainbowColor": false,
+  "Glow": true,
+  "Radius": 4.0,
+  "Smoothness": 1.0,
+  "Alpha": 50,
+  "Model": true,
+  "Range": 75,
+  "FOVOnly": false
+}

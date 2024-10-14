@@ -1,0 +1,22 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "NoRender",
+  "Night": true,
+  "Armor": true,
+  "Fire": true,
+  "Blind": true,
+  "Nausea": true,
+  "Fog": true,
+  "Weather": true,
+  "HurtCam": true,
+  "TotemPop": true,
+  "Block": true,
+  "Exp": true,
+  "Explosion[!]": false,
+  "SkyLight": false,
+  "Advancements": false,
+  "BossBars": "NONE",
+  "Scale": 0.5
+}

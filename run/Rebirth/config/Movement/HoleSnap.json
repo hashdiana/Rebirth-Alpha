@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "HoleSnap",
+  "Blink": false,
+  "Range": 5,
+  "Timer": 1.6,
+  "TimeOutTicks": 10
+}

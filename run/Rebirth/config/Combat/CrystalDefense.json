@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "CrystalDefense",
+  "Delay": 50,
+  "MultiPlace": 1,
+  "Rotate": true,
+  "Packet": true,
+  "OnlyGround": true,
+  "BreakCrystal": true,
+  "EatingPause": true
+}

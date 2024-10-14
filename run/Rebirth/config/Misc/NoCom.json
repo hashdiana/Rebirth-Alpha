@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "NoCom",
+  "OpenGui": "None",
+  "Delay": 200,
+  "LoopPerTick": 1,
+  "StartX": 0,
+  "StartZ": 0,
+  "PointerScale": 4,
+  "you": true,
+  "LoadGui": true
+}

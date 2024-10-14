@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "FastWeb",
+  "Mode": "FAST",
+  "FastSpeed": 3.0,
+  "OnlySneak": false
+}

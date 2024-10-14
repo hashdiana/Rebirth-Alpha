@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Fonts",
+  "Font": "Arial",
+  "AntiAlias": true,
+  "Metrics": true,
+  "Global": false,
+  "Size": 17,
+  "Style": "PLAIN"
+}

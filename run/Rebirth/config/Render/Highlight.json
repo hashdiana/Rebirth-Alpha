@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Highlight",
+  "AnimationTime": 1000,
+  "Line": true,
+  "Box": false,
+  "Depth": true,
+  "LineWidth": 3.0,
+  "Color": -1770160683,
+  "RainbowColor": false
+}

@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "VoidESP",
+  "RangeX": 10,
+  "RangeY": 5,
+  "Mode": "FULL",
+  "Height": 1,
+  "Fill": true,
+  "Outline": true,
+  "Wireframe": true,
+  "Color": 1692929536,
+  "RainbowColor": false
+}

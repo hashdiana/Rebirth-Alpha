@@ -1,0 +1,13 @@
+{
+  "Enabled": true,
+  "Drawn": false,
+  "Keybind": "None",
+  "Display": "CombatSetting",
+  "StrictPlace": false,
+  "CheckRaytrace": false,
+  "ResetRotation": false,
+  "ResetPosition": false,
+  "AttackDelay": 300,
+  "RotateTime": 300,
+  "PlaceInFire": true
+}

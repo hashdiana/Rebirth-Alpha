@@ -1,0 +1,9 @@
+{
+  "Enabled": true,
+  "Drawn": false,
+  "Keybind": "None",
+  "Display": "MenuShader",
+  "Shader Mode": "GANG",
+  "Animation": true,
+  "Animation Speed": 1
+}

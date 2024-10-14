@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "PredictESP",
+  "PredictTicks": 4,
+  "Collision": false,
+  "Color": -1761607681,
+  "RainbowColor": false
+}

@@ -1,0 +1,5 @@
+Args: "--inJar", "C:\decode\NewRebirth\build\fg_cache\net\minecraftforge\forge\1.12.2-14.23.5.2860\forge-1.12.2-14.23.5.2860-injected.jar", "--outJar", "C:\decode\NewRebirth\build\fg_cache\net\minecraftforge\forge\1.12.2-14.23.5.2860_mapped_stable_39-1.12\forge-1.12.2-14.23.5.2860_mapped_stable_39-1.12.jar", "--logFile", "accesstransform.log", "--atFile", "C:\decode\NewRebirth\src\main\resources\rebirth_at.cfg", "--atFile", "C:\decode\NewRebirth\build\_atJar_6\parent_at.cfg"
+Classpath: C:\Users\Never\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\1.0.5\accesstransformers-1.0.5-fatjar.jar
+WorkDir: C:\decode\NewRebirth\build\_atJar_6
+Main: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

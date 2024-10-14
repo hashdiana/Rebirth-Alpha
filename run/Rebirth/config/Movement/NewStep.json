@@ -1,0 +1,16 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "NewStep",
+  "Height": 2.0,
+  "EntityStep": false,
+  "Timer": true,
+  "Strict": false,
+  "PauseBurrow": true,
+  "PauseSneak": true,
+  "PauseWeb": true,
+  "OnlyMoving": true,
+  "StepDelay": 200,
+  "Mode": "NORMAL"
+}

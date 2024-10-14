@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "TileESP",
+  "Beds": true,
+  "Chests": true,
+  "EChests": true,
+  "Shulkers": true,
+  "Signs": true,
+  "Dispensers": true,
+  "Hoppers": true,
+  "Furnaces": true
+}

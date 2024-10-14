@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Velocity",
+  "Horizontal": 0.0,
+  "Vertical": 0.0,
+  "LiquidPush": true,
+  "BlockPush": true,
+  "EntityPush": true
+}

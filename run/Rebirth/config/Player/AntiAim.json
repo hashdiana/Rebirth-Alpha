@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AntiAim",
+  "PitchMode": "None",
+  "YawMode": "None",
+  "Speed": 1,
+  "YawDelta": 60,
+  "PitchDelta": 10,
+  "AllowInteract": true
+}

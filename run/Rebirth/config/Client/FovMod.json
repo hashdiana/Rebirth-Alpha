@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "FovMod",
+  "Settings": "FOV",
+  "CustomFov": false,
+  "FOV": 120.0,
+  "AspectRatio": false,
+  "AspectFactor": 1.8,
+  "Defaults": false,
+  "SprintAdd": 1.15,
+  "SwiftnessAdd": 1.15
+}

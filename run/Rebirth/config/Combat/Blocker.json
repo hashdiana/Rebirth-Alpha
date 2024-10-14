@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Blocker",
+  "Rotate": true,
+  "Packet": true,
+  "AttackCrystal": true,
+  "EatingPause": true,
+  "OnlySurround": true,
+  "Delay": 100,
+  "MultiPlace": 1,
+  "Helper": false,
+  "Mode": "Semi"
+}

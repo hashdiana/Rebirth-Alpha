@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "CityESP",
+  "OnlyBurrow": false,
+  "Outline": true,
+  "OutlineAlpha": 150,
+  "Box": true,
+  "BoxAlpha": 70,
+  "Range": 7.0,
+  "AttackColor": -27757,
+  "RainbowAttackColor": false,
+  "Color": -9013505,
+  "RainbowColor": false,
+  "BurrowColor": -1,
+  "RainbowBurrowColor": false
+}

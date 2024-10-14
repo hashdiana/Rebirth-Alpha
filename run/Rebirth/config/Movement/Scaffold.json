@@ -1,0 +1,21 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Scaffold",
+  "SafeWalk": false,
+  "Rotate": true,
+  "RotateTimer": 800,
+  "Packet": false,
+  "PlaceDelay": 100,
+  "AutoSwap": "SILENT",
+  "Search": true,
+  "AllowUp": false,
+  "Range": 3.5,
+  "Tower": true,
+  "Down": true,
+  "SameY": false,
+  "YCheck": 2.5,
+  "AirCheck": true,
+  "Counts": true
+}

@@ -1,0 +1,17 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "PistonCrystal",
+  "AutoDisable": false,
+  "EatingPause": false,
+  "EatingBreak": false,
+  "PlaceRange": 5.0,
+  "Range": 4.0,
+  "Packet": true,
+  "Fire": true,
+  "Mine": true,
+  "PauseAir": true,
+  "PauseMoving": true,
+  "UpdateDelay": 100
+}

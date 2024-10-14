@@ -1,0 +1,19 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "SelfTrap",
+  "Delay": 50,
+  "MultiPlace": 1,
+  "BreakCrystal": true,
+  "SafeHealth": 16.0,
+  "EatingPause": true,
+  "Rotate": true,
+  "Packet": true,
+  "Center": true,
+  "AutoDisable": true,
+  "TrapBody": true,
+  "TrapStep": true,
+  "TrapHead": false,
+  "useButton": false
+}

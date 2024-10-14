@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Timer",
+  "Speed": 1.2,
+  "NoCrystal": true,
+  "PacketControl": true
+}

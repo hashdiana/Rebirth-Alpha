@@ -1,0 +1,23 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AutoReplenish",
+  "AutoDisable": true,
+  "Rotate": true,
+  "Packet": true,
+  "Place": true,
+  "Open": true,
+  "Range": 4.0,
+  "MinRange": 1.0,
+  "Take": true,
+  "Smart": true,
+  "Crystal": 6,
+  "Exp": 6,
+  "Totem": 6,
+  "Gapple": 3,
+  "EndChest": 1,
+  "Web": 1,
+  "RedStoneBlock": 1,
+  "Piston": 1
+}

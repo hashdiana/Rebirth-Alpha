@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "WebTrap",
+  "Range": 5.0,
+  "TickDelay": 50,
+  "BPT": 1,
+  "Packet": false,
+  "AutoDisable": false,
+  "Rotate": true,
+  "Raytrace": false,
+  "Feet": true,
+  "Face": false,
+  "Render": true,
+  "Box": true,
+  "Line": true
+}

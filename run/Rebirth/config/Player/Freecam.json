@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Freecam",
+  "Control": "Lmenu",
+  "Follow": false,
+  "CopyInv": false,
+  "HSpeed": 1.0,
+  "VSpeed": 1.0
+}

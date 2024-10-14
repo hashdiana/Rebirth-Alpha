@@ -1,0 +1,18 @@
+{
+  "Enabled": true,
+  "Drawn": false,
+  "Keybind": "None",
+  "Display": "Chat",
+  "Animation": true,
+  "Rect": true,
+  "ColorRect": false,
+  "InfiniteChat": true,
+  "Suffix": false,
+  "suffixString": "|_NewRebirth",
+  "TimeStamps": false,
+  "Bracket": "TRIANGLE",
+  "ToggleNotify": true,
+  "OnlyOne": false,
+  "Color": -7950849,
+  "RainbowColor": false
+}

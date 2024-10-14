@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "PacketExp",
+  "Delay": 1,
+  "Down": true,
+  "allowGui": false,
+  "CheckDura": true,
+  "Mode": "Key",
+  "ThrowBind": "None"
+}

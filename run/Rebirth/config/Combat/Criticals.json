@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Criticals",
+  "Mode": "PACKET",
+  "Webs": false,
+  "OnlyAura": false,
+  "OnlySword": true,
+  "Delay": 100
+}

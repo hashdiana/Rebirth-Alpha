@@ -1,0 +1,74 @@
+me/rebirthclient/asm/mixins/MixinEntity stepHeight field_70138_W
+me/rebirthclient/asm/mixins/MixinEntityLivingBase jumpTicks field_70773_bE
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP connection field_71174_a
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP mc field_71159_c
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP serverSprintState field_175171_bO
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP serverSneakState field_175170_bN
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP lastReportedPosX field_175172_bI
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP lastReportedPosY field_175166_bJ
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP lastReportedPosZ field_175167_bK
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP lastReportedYaw field_175164_bL
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP lastReportedPitch field_175165_bM
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP positionUpdateTicks field_175168_bP
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP autoJumpEnabled field_189811_cr
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP prevOnGround field_184841_cd
+me/rebirthclient/asm/mixins/MixinEntityRenderer itemActivationItem field_190566_ab
+me/rebirthclient/asm/mixins/MixinEntityRenderer lightmapColors field_78504_Q
+me/rebirthclient/asm/mixins/MixinGuiChat inputField field_146415_a
+me/rebirthclient/asm/mixins/MixinGuiContainer inventorySlots field_147002_h
+me/rebirthclient/asm/mixins/MixinGuiContainer guiLeft field_147003_i
+me/rebirthclient/asm/mixins/MixinGuiContainer guiTop field_147009_r
+me/rebirthclient/asm/mixins/MixinGuiContainer hoveredSlot field_147006_u
+me/rebirthclient/asm/mixins/MixinGuiContainer isRightMouseClick field_147004_w
+me/rebirthclient/asm/mixins/MixinGuiContainer draggedStack field_147012_x
+me/rebirthclient/asm/mixins/MixinGuiContainer touchUpX field_147011_y
+me/rebirthclient/asm/mixins/MixinGuiContainer touchUpY field_147010_z
+me/rebirthclient/asm/mixins/MixinGuiContainer returningStackDestSlot field_146989_A
+me/rebirthclient/asm/mixins/MixinGuiContainer returningStackTime field_146990_B
+me/rebirthclient/asm/mixins/MixinGuiContainer returningStack field_146991_C
+me/rebirthclient/asm/mixins/MixinGuiContainer dragSplittingSlots field_147008_s
+me/rebirthclient/asm/mixins/MixinGuiContainer dragSplitting field_147007_t
+me/rebirthclient/asm/mixins/MixinGuiContainer dragSplittingRemnant field_146996_I
+me/rebirthclient/asm/mixins/MixinGuiMainMenu widthCopyright field_193978_M
+me/rebirthclient/asm/mixins/MixinGuiMainMenu widthCopyrightRest field_193979_N
+me/rebirthclient/asm/mixins/MixinGuiMainMenu minceraftRoll field_73974_b
+me/rebirthclient/asm/mixins/MixinGuiMainMenu MINECRAFT_TITLE_TEXTURES field_110352_y
+me/rebirthclient/asm/mixins/MixinGuiMainMenu field_194400_H field_194400_H
+me/rebirthclient/asm/mixins/MixinGuiMainMenu panoramaTimer field_73979_m
+me/rebirthclient/asm/mixins/MixinGuiMainMenu openGLWarning2Width field_92024_r
+me/rebirthclient/asm/mixins/MixinGuiMainMenu openGLWarningX1 field_92022_t
+me/rebirthclient/asm/mixins/MixinGuiMainMenu openGLWarningY1 field_92021_u
+me/rebirthclient/asm/mixins/MixinGuiMainMenu openGLWarningX2 field_92020_v
+me/rebirthclient/asm/mixins/MixinGuiMainMenu openGLWarningY2 field_92019_w
+me/rebirthclient/asm/mixins/MixinGuiMainMenu openGLWarning1 field_92025_p
+me/rebirthclient/asm/mixins/MixinGuiMainMenu openGLWarning2 field_146972_A
+me/rebirthclient/asm/mixins/MixinGuiMainMenu backgroundTexture field_110351_G
+me/rebirthclient/asm/mixins/MixinGuiNewChat isScrolled field_146251_k
+me/rebirthclient/asm/mixins/MixinItemEntityRenderer random field_177079_e
+me/rebirthclient/asm/mixins/MixinItemEntityRenderer itemRenderer field_177080_a
+me/rebirthclient/asm/mixins/MixinItemRenderer mc field_78455_a
+me/rebirthclient/asm/mixins/MixinModelPlayer bipedLeftArmwear field_178734_a
+me/rebirthclient/asm/mixins/MixinModelPlayer bipedRightArmwear field_178732_b
+me/rebirthclient/asm/mixins/MixinModelPlayer bipedLeftLegwear field_178733_c
+me/rebirthclient/asm/mixins/MixinModelPlayer bipedRightLegwear field_178731_d
+me/rebirthclient/asm/mixins/MixinModelPlayer bipedBodyWear field_178730_v
+me/rebirthclient/asm/mixins/MixinTimer elapsedPartialTicks field_194148_c
+me/rebirthclient/asm/mixins/MixinBlockWeb getCollisionBoundingBox (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/IBlockAccess;Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/util/math/AxisAlignedBB; func_180646_a
+me/rebirthclient/asm/mixins/MixinEntity equals (Ljava/lang/Object;)Z equals
+me/rebirthclient/asm/mixins/MixinEntity getEntityBoundingBox ()Lnet/minecraft/util/math/AxisAlignedBB; func_174813_aQ
+me/rebirthclient/asm/mixins/MixinEntity isSneaking ()Z func_70093_af
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP isCurrentViewEntity ()Z func_175160_A
+me/rebirthclient/asm/mixins/MixinEntityPlayerSP onUpdateWalkingPlayer ()V func_175161_p
+me/rebirthclient/asm/mixins/MixinFontRenderer renderStringAtPos (Ljava/lang/String;Z)V func_78255_a
+me/rebirthclient/asm/mixins/MixinGuiContainer drawGuiContainerBackgroundLayer (FII)V func_146976_a
+me/rebirthclient/asm/mixins/MixinGuiContainer drawSlot (Lnet/minecraft/inventory/Slot;)V func_146977_a
+me/rebirthclient/asm/mixins/MixinGuiContainer drawGuiContainerForegroundLayer (II)V func_146979_b
+me/rebirthclient/asm/mixins/MixinGuiContainer drawItemStack (Lnet/minecraft/item/ItemStack;IILjava/lang/String;)V func_146982_a
+me/rebirthclient/asm/mixins/MixinGuiContainer isMouseOverSlot (Lnet/minecraft/inventory/Slot;II)Z func_146981_a
+me/rebirthclient/asm/mixins/MixinGuiContainer drawScreen (IIF)V func_73863_a
+me/rebirthclient/asm/mixins/MixinGuiMainMenu drawScreen (IIF)V func_73863_a
+me/rebirthclient/asm/mixins/MixinGuiMainMenu addSingleplayerMultiplayerButtons (II)V func_73969_a
+me/rebirthclient/asm/mixins/MixinGuiNewChat getChatScale ()F func_146244_h
+me/rebirthclient/asm/mixins/MixinItemEntityRenderer getModelCount (Lnet/minecraft/item/ItemStack;)I func_177078_a
+me/rebirthclient/asm/mixins/MixinItemRenderer renderItemInFirstPerson (Lnet/minecraft/client/entity/AbstractClientPlayer;FFLnet/minecraft/util/EnumHand;FLnet/minecraft/item/ItemStack;F)V func_187457_a
+me/rebirthclient/asm/mixins/MixinLayerArmorBase renderArmorLayer (Lnet/minecraft/entity/EntityLivingBase;FFFFFFFLnet/minecraft/inventory/EntityEquipmentSlot;)V func_188361_a

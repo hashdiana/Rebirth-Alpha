@@ -1,0 +1,8 @@
+JVM Args:    
+Run Args:    "--in-jar", "C:\decode\NewRebirth\build\fg_cache\mcp\1.12.2-20200226.224830\joined\a7d823150c97832fd364b04fb95056f6c8c67fa3\merge\output.jar", "--out-jar", "C:\decode\NewRebirth\build\fg_cache\mcp\1.12.2-20200226.224830\joined\a7d823150c97832fd364b04fb95056f6c8c67fa3\rename\output.jar", "--srg-in", "config/joined.tsrg", "--kill-source"
+Classpath:   C:\Users\Never\.gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.8.3\SpecialSource-1.8.3-shaded.jar
+Working Dir: C:\decode\NewRebirth\build\fg_cache\mcp\1.12.2-20200226.224830\joined\a7d823150c97832fd364b04fb95056f6c8c67fa3\rename
+Main Class:  net.md_5.specialsource.SpecialSource
+Loading mappings
+0 packages, 3344 classes, 11915 fields, 20817 methods
+Remapping final jar

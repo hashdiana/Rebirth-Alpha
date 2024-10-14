@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "PullCrystal",
+  "Range": 5.0,
+  "PistonPacket": false,
+  "Packet": true,
+  "Fire": true,
+  "PauseWeb": true,
+  "NoEating": true,
+  "MultiPlace": false,
+  "NoAir": true,
+  "NoMoving": true,
+  "AutoDisable": true,
+  "UpdateDelay": 100,
+  "MaxTargetSpeed": 4.0
+}

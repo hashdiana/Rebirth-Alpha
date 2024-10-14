@@ -1,0 +1,21 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "LogOutSpots",
+  "Text": true,
+  "Range": 150.0,
+  "Rectangle": true,
+  "Outline": true,
+  "Time": true,
+  "Coords": true,
+  "Box": true,
+  "Color": -1766449377,
+  "RainbowColor": false,
+  "Chams": true,
+  "ChamsColor": 1690173440,
+  "RainbowChamsColor": false,
+  "LineColor": 2030043135,
+  "shouldLineColor": false,
+  "RainbowLineColor": false
+}

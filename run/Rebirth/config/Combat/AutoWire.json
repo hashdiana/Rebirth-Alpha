@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AutoWire",
+  "Rotate": true,
+  "Packet": true,
+  "OnlyGround": true,
+  "Face": true,
+  "CheckDamage": true,
+  "CrystalRange": 6.0,
+  "MinDamage": 5.0,
+  "MaxSelfSpeed": 12.0
+}

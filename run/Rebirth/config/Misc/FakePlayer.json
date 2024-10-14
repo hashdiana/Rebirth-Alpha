@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "FakePlayer",
+  "Move": false,
+  "Damage": true,
+  "TotemHurtTime": 25,
+  "HurtTime": 10,
+  "GappleDelay": 100
+}

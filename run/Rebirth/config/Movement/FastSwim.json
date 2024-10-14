@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "FastSwim",
+  "Speed": 5.0,
+  "VerticalSpeed": 2.0,
+  "Glide": true,
+  "GlideSpeed": 2.0
+}

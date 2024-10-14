@@ -1,0 +1,5 @@
+JVM Args:    
+Run Args:    "--inJar", "C:\decode\NewRebirth\build\fg_cache\mcp\1.12.2-20200226.224830\joined\a7d823150c97832fd364b04fb95056f6c8c67fa3\mcinject\output.jar", "--outJar", "C:\decode\NewRebirth\build\fg_cache\mcp\1.12.2-20200226.224830\joined\a7d823150c97832fd364b04fb95056f6c8c67fa3\AccessTransformer\output.jar", "--atFile", "C:\decode\NewRebirth\src\main\resources\rebirth_at.cfg", "--atFile", "C:\Users\Never\AppData\Local\Temp\FG_ats_579817139888532354.cfg"
+Classpath:   C:\Users\Never\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\1.0.5\accesstransformers-1.0.5-fatjar.jar
+Working Dir: C:\decode\NewRebirth\build\fg_cache\mcp\1.12.2-20200226.224830\joined\a7d823150c97832fd364b04fb95056f6c8c67fa3\AccessTransformer
+Main Class:  net.minecraftforge.accesstransformer.TransformerProcessor

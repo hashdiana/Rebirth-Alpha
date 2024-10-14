@@ -1,0 +1,23 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "AutoWeb",
+  "Rotate": true,
+  "Packet": true,
+  "Delay": 50,
+  "MultiPlace": 1,
+  "Raytrace": false,
+  "NoInWeb": true,
+  "CheckSelf": true,
+  "SelfGround": true,
+  "Down": false,
+  "Face": false,
+  "Feet": true,
+  "OnlyAir": true,
+  "SurroundCheck": 3,
+  "Air": true,
+  "MaxSelfSpeed": 6.0,
+  "MinTargetSpeed": 0.0,
+  "Range": 5.0
+}

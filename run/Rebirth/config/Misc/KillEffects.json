@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "KillEffects",
+  "Lightning": "NORMAL",
+  "KillSound": "OFF",
+  "Oneself": true
+}

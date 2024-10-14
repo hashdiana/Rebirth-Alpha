@@ -1,0 +1,19 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Inventory",
+  "XOffset": "CUSTOM",
+  "X": 500,
+  "YOffset": "CUSTOM",
+  "Y": 2,
+  "Outline": true,
+  "LineColor": 1678379530,
+  "RainbowLineColor": false,
+  "SecondColor": 1679695390,
+  "shouldSecondColor": true,
+  "RainbowSecondColor": false,
+  "Rect": true,
+  "RectColor": 839518730,
+  "RainbowRectColor": false
+}

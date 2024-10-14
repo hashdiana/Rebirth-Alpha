@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "PlaceRender",
+  "Line": true,
+  "Box": false,
+  "Depth": true,
+  "LineWidth": 3.0,
+  "FadeTime": 500,
+  "Color": 1694498815,
+  "RainbowColor": false,
+  "Sync": true
+}

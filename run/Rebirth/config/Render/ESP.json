@@ -1,0 +1,21 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "ESP",
+  "Settings": "GLOBAL",
+  "Items": "BOX",
+  "ExpOrbs": false,
+  "ExpBottles": false,
+  "Pearls": true,
+  "Players": "BOX",
+  "Burrow": "PRETTY",
+  "TextColor": -1,
+  "shouldTextColor": false,
+  "RainbowTextColor": false,
+  "Color": -1770160683,
+  "RainbowColor": false,
+  "LineColor": -1493172225,
+  "shouldLineColor": false,
+  "RainbowLineColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "ObiPlacer",
+  "Render": true,
+  "Outline": true,
+  "OutlineAlpha": 150,
+  "Box": true,
+  "BoxAlpha": 70,
+  "Color": -1,
+  "RainbowColor": false,
+  "RenderTime": 3000,
+  "ShrinkTime": 600,
+  "Rotate": true,
+  "Packet": true,
+  "Range": 6.0,
+  "WallsRange": 3.5,
+  "PlaceDelay": 100,
+  "MinDmg": 6.0,
+  "PlaceRange": 4.0
+}

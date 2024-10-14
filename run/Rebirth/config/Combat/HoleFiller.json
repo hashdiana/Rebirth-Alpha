@@ -1,0 +1,17 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "HoleFiller",
+  "Rotate": false,
+  "Packet": false,
+  "Webs": false,
+  "AutoDisable": true,
+  "Radius": 4.0,
+  "Smart": false,
+  "Logic": "PLAYER",
+  "EnemyRange": 4,
+  "Render": true,
+  "Box": true,
+  "Line": true
+}

@@ -1,0 +1,15 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Strafe",
+  "Mode": "Normal",
+  "Jump": false,
+  "JumpMotion": 0.40123128,
+  "Factor": 1.67,
+  "Factor+": 2.149,
+  "Dist": 0.6896,
+  "Dist+": 0.795,
+  "SpeedY": 0.99,
+  "SpeedH": 0.993
+}

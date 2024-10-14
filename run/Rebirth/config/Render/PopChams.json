@@ -1,0 +1,16 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "PopChams",
+  "Outline Color": 1694498815,
+  "RainbowOutline Color": false,
+  "Fill Color": 1694498815,
+  "RainbowFill Color": false,
+  "Self": true,
+  "Travel": true,
+  "Elevator": "UP",
+  "Fade Start": 0,
+  "Fade Time": 0.5,
+  "Only Render One": true
+}

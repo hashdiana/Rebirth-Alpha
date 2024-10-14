@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "ArmorWarner",
+  "Armor%": 20,
+  "Self": true,
+  "Friends": true
+}

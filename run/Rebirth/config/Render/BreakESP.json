@@ -1,0 +1,23 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "BreakESP",
+  "RenderAir": true,
+  "OneSelf": true,
+  "RenderUnknown": true,
+  "Range": 15.0,
+  "RenderName": true,
+  "Color": 1694498815,
+  "Progress": true,
+  "AnimationMode": "Up",
+  "AnimationTime": 1000,
+  "Box": true,
+  "BoxAlpha": 30,
+  "Outline": true,
+  "OutlineAlpha": 100,
+  "RainbowColor": false,
+  "Double": 1694498815,
+  "shouldDouble": true,
+  "RainbowDouble": false
+}

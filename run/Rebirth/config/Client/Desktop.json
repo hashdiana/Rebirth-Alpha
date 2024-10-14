@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Desktop",
+  "OnlyTabbed": false,
+  "VisualRange": true,
+  "TotemPop": true,
+  "Mention": true,
+  "DM": true
+}

@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "Tracers",
+  "Mode": "ARROW",
+  "Range": 100,
+  "Color": -4841697,
+  "RainbowColor": false,
+  "LineWidth": 1.0,
+  "Radius": 80,
+  "Size": 7.5,
+  "Outline": true
+}

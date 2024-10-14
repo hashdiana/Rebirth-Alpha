@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "Display": "HoleMiner",
+  "MineBurrow": true,
+  "Range": 5.0,
+  "KeyMode": true,
+  "Enable": "None",
+  "Toggle": false
+}
